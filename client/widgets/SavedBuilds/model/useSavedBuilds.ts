@@ -78,8 +78,10 @@ export default () => {
   }
 
   // Load builds from localStorage
-  callOnce(() => {
-    state.value.builds = JSON.parse(localStorage.getItem('savedBuilds') || '[]')
+  onMounted(() => {
+    callOnce(() => {
+      state.value.builds = JSON.parse(localStorage.getItem('savedBuilds') || '[]')
+    })
   })
 
   return {
