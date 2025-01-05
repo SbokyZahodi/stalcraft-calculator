@@ -1,0 +1,630 @@
+[
+  {
+    "id": "9yyq",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/9yyq.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «КЗС-1»",
+        "en": "KZS-1 Container"
+      }
+    },
+    "protection": 50,
+    "capacity": 1,
+    "values": []
+  },
+  {
+    "id": "yqq0",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/yqq0.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «КЗС-1у»",
+        "en": "KZS-1u Container"
+      }
+    },
+    "protection": 55,
+    "capacity": 1,
+    "values": []
+  },
+  {
+    "id": "j33l",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/j33l.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-2»",
+        "en": "KZS-2"
+      }
+    },
+    "protection": 50,
+    "capacity": 2,
+    "values": []
+  },
+  {
+    "id": "l332",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/l332.png",
+    "name": {
+      "lines": {
+        "ru": "Рюкзак «Hellboy»",
+        "en": "Hellboy Backpack"
+      }
+    },
+    "protection": 50,
+    "capacity": 2,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 28
+      }
+    ]
+  },
+  {
+    "id": "o335",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/o335.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-2у»",
+        "en": "KZS-2u"
+      }
+    },
+    "protection": 55,
+    "capacity": 2,
+    "values": []
+  },
+  {
+    "id": "n339",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/n339.png",
+    "name": {
+      "lines": {
+        "ru": "Рюкзак «Hellboy» укрепленный",
+        "en": "Reinforced Hellboy Backpack"
+      }
+    },
+    "protection": 55,
+    "capacity": 2,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 28
+      }
+    ]
+  },
+  {
+    "id": "p99d",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/p99d.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «ИУ-2»",
+        "en": "IU-2 Container"
+      }
+    },
+    "protection": 95,
+    "capacity": 3,
+    "values": []
+  },
+  {
+    "id": "2vvv",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/2vvv.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-3»",
+        "en": "KZS-3"
+      }
+    },
+    "protection": 50,
+    "capacity": 3,
+    "values": []
+  },
+  {
+    "id": "1p2r",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/1p2r.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-3у»",
+        "en": "KZS-3u"
+      }
+    },
+    "protection": 55,
+    "capacity": 3,
+    "values": []
+  },
+  {
+    "id": "g3ln",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/g3ln.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Холодильник»",
+        "en": "Fridge Container"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 4,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Температура",
+            "en": "Temperature"
+          }
+        },
+        "value": -2.5
+      }
+    ]
+  },
+  {
+    "id": "zjqk",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/zjqk.png",
+    "name": {
+      "lines": {
+        "ru": "Марафонская сумка",
+        "en": "Marathon bag"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 3,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 30
+      },
+      {
+        "name": {
+          "lines": {
+            "ru": "Биологическое заражение",
+            "en": "Biological infection"
+          }
+        },
+        "value": -2.5
+      }
+    ]
+  },
+  {
+    "id": "w4wz",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/w4wz.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Берлога-4»",
+        "en": "Berloga — 4 Container"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 4,
+    "values": []
+  },
+  {
+    "id": "49gj",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/49gj.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-4»",
+        "en": "KZS-4"
+      }
+    },
+    "protection": 50,
+    "capacity": 4,
+    "values": []
+  },
+  {
+    "id": "k3oj",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/k3oj.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Кокон»",
+        "en": "Cocoon Container"
+      }
+    },
+    "protection": 93.5,
+    "capacity": 3,
+    "values": []
+  },
+  {
+    "id": "q194",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/q194.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Добытчик»",
+        "en": "Forager Container"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 4,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Радиация",
+            "en": "Radiation"
+          }
+        },
+        "value": -2.5
+      }
+    ]
+  },
+  {
+    "id": "j3ml",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/j3ml.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «КСМ»",
+        "en": "SMC Container"
+      }
+    },
+    "protection": 95,
+    "capacity": 4,
+    "values": []
+  },
+  {
+    "id": "l3n2",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/l3n2.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Берлога-4у»",
+        "en": "Berloga-4u Container"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 4,
+    "values": []
+  },
+  {
+    "id": "rg1z",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/rg1z.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-4у»",
+        "en": "KZS-4u"
+      }
+    },
+    "protection": 55,
+    "capacity": 4,
+    "values": []
+  },
+  {
+    "id": "0ndk",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/0ndk.png",
+    "name": {
+      "lines": {
+        "ru": "Ягдташ",
+        "en": "Jagdtasche"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 4,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "m3pk",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/m3pk.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Колотун»",
+        "en": "Freezer Container"
+      }
+    },
+    "protection": 66.99999,
+    "capacity": 4,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Температура",
+            "en": "Temperature"
+          }
+        },
+        "value": -2.5
+      },
+      {
+        "name": {
+          "lines": {
+            "ru": "Биологическое заражение",
+            "en": "Biological infection"
+          }
+        },
+        "value": 0.5
+      }
+    ]
+  },
+  {
+    "id": "n3v9",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/n3v9.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-5»",
+        "en": "KZS-5"
+      }
+    },
+    "protection": 50,
+    "capacity": 5,
+    "values": []
+  },
+  {
+    "id": "p92d",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/p92d.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Улей»",
+        "en": "Hive Container"
+      }
+    },
+    "protection": 85,
+    "capacity": 5,
+    "values": []
+  },
+  {
+    "id": "3d11",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/3d11.png",
+    "name": {
+      "lines": {
+        "ru": "«КЗС-5у»",
+        "en": "KZS-5u"
+      }
+    },
+    "protection": 55,
+    "capacity": 5,
+    "values": []
+  },
+  {
+    "id": "g35n",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/g35n.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Берлога-6»",
+        "en": "Berloga — 6 Container"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 6,
+    "values": []
+  },
+  {
+    "id": "512o",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/512o.png",
+    "name": {
+      "lines": {
+        "ru": "ZIVCAS ArcticSafe-6",
+        "en": "ZIVCAS ArcticSafe-6"
+      }
+    },
+    "protection": 75,
+    "capacity": 6,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Скорость передвижения",
+            "en": "Movement speed"
+          }
+        },
+        "value": -5
+      },
+      {
+        "name": {
+          "lines": {
+            "ru": "Пси-излучение",
+            "en": "Psy-emissions"
+          }
+        },
+        "value": 0.5
+      },
+      {
+        "name": {
+          "lines": {
+            "ru": "Холод",
+            "en": "Frost"
+          }
+        },
+        "value": -1
+      }
+    ]
+  },
+  {
+    "id": "yq90",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/yq90.png",
+    "name": {
+      "lines": {
+        "ru": "Рюкзак «Хитин»",
+        "en": "\"Chitin\" Backpack"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 6,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "49dj",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/49dj.png",
+    "name": {
+      "lines": {
+        "ru": "Контейнер «Берлога-6у»",
+        "en": "Berloga-6u Container"
+      }
+    },
+    "protection": 60.000004,
+    "capacity": 6,
+    "values": []
+  },
+  {
+    "id": "jmp6",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/jmp6.png",
+    "name": {
+      "lines": {
+        "ru": "Сумка-трансформер",
+        "en": "Transformer Bag"
+      }
+    },
+    "protection": 0,
+    "capacity": 1,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "odq0",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/odq0.png",
+    "name": {
+      "lines": {
+        "ru": "Спортивная сумка",
+        "en": "Sports Bag"
+      }
+    },
+    "protection": 0,
+    "capacity": 2,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "7yl7",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/7yl7.png",
+    "name": {
+      "lines": {
+        "ru": "Рюкзак Errand Junior",
+        "en": "Errand Junior Backpack"
+      }
+    },
+    "protection": 0,
+    "capacity": 2,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 27
+      }
+    ]
+  },
+  {
+    "id": "12r1",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/12r1.png",
+    "name": {
+      "lines": {
+        "ru": "Рюкзак MBSS",
+        "en": "MBSS Backpack"
+      }
+    },
+    "protection": 0,
+    "capacity": 3,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 30
+      }
+    ]
+  },
+  {
+    "id": "lny1",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/lny1.png",
+    "name": {
+      "lines": {
+        "ru": "Штурмовой рюкзак Tri-Zip",
+        "en": "Tri-Zip Assault Backpack"
+      }
+    },
+    "protection": 0,
+    "capacity": 4,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "nv43",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/nv43.png",
+    "name": {
+      "lines": {
+        "ru": "Рюкзак NPA",
+        "en": "NPA Backpack"
+      }
+    },
+    "protection": 10.000002,
+    "capacity": 4,
+    "values": [
+      {
+        "name": {
+          "lines": {
+            "ru": "Переносимый вес",
+            "en": "Carry weight"
+          }
+        },
+        "value": 45
+      }
+    ]
+  },
+  {
+    "id": "j5y7g",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/containers/j5y7g.png",
+    "name": {
+      "lines": {
+        "ru": "Мобильный лагерь",
+        "en": "Mobile camp"
+      }
+    },
+    "protection": 0,
+    "capacity": 0,
+    "values": []
+  }
+]

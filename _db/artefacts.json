@@ -1,0 +1,5853 @@
+[
+  {
+    "id": "9nd0",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/9nd0.png",
+    "locale": {
+      "ru": "Призрачный кристалл",
+      "en": "Spectral Crystal"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -4,
+          "min": -8
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.7,
+          "min": 0.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от пси-излучения",
+          "en": "Psy-Emission protection"
+        },
+        "value": {
+          "max": 30,
+          "min": 15
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.6,
+          "min": -1.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "1k96",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/1k96.png",
+    "locale": {
+      "ru": "Трещотка",
+      "en": "Rattle"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 11.1,
+          "min": 5.65
+        }
+      },
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.7,
+          "min": 1.85
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.3,
+          "min": 0.15
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.7,
+          "min": 0.85
+        }
+      }
+    ]
+  },
+  {
+    "id": "gyn0",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/gyn0.png",
+    "locale": {
+      "ru": "Комета",
+      "en": "Comet"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ]
+  },
+  {
+    "id": "zy32",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/zy32.png",
+    "locale": {
+      "ru": "Батарейка",
+      "en": "Battery"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.7,
+          "min": 0.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 11.4,
+          "min": 5.7
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "5r5g",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/5r5g.png",
+    "locale": {
+      "ru": "Ледяной ежик",
+      "en": "Ice Hedgehog"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.6,
+          "min": 0.8
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 10.4,
+          "min": 5.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "y54z",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/y54z.png",
+    "locale": {
+      "ru": "Гиря",
+      "en": "Kettlebell"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -8,
+          "min": -16
+        }
+      },
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.1,
+          "min": 0.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от температуры",
+          "en": "Thermal protection"
+        },
+        "value": {
+          "max": 65,
+          "min": 32.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -1,
+          "min": -2
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "wg3p",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/wg3p.png",
+    "locale": {
+      "ru": "Дезинтегратор",
+      "en": "Disintegrator"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 18.5,
+          "min": 9.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -2.65,
+          "min": -5.3
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.9,
+          "min": -1.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "4lkp",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/4lkp.png",
+    "locale": {
+      "ru": "Лампочка Ильича",
+      "en": "Ilyich Lamp"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -8,
+          "min": -16
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от пси-излучения",
+          "en": "Psy-Emission protection"
+        },
+        "value": {
+          "max": 65,
+          "min": 32.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.75,
+          "min": -3.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.9,
+          "min": -1.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "kqr0",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/kqr0.png",
+    "locale": {
+      "ru": "Гелий",
+      "en": "Helium"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 4.6,
+          "min": 2.3
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.6,
+          "min": 0.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "qo06",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/qo06.png",
+    "locale": {
+      "ru": "Трансформатор",
+      "en": "Transformer"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 7.8,
+          "min": 3.9
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 20.8,
+          "min": 10.4
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -2.45,
+          "min": -4.9
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.1,
+          "min": -2.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "gy10",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/gy10.png",
+    "locale": {
+      "ru": "Красный кристалл",
+      "en": "Red Crystal"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -4,
+          "min": -8
+        }
+      },
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 7.8,
+          "min": 3.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от температуры",
+          "en": "Thermal protection"
+        },
+        "value": {
+          "max": 30,
+          "min": 15
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "zyw2",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/zyw2.png",
+    "locale": {
+      "ru": "Огонек",
+      "en": "Candlelight"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -1.1,
+          "min": -2.2
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.35,
+          "min": -0.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "5rog",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/5rog.png",
+    "locale": {
+      "ru": "Пиявка",
+      "en": "Leech"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -4,
+          "min": -8
+        }
+      },
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 5.2,
+          "min": 2.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от радиации",
+          "en": "Radiation protection"
+        },
+        "value": {
+          "max": 30,
+          "min": 15
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "y5nz",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/y5nz.png",
+    "locale": {
+      "ru": "Волчьи слезы",
+      "en": "Wolf Tears"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 5.2,
+          "min": 2.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 13.9,
+          "min": 6.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.75,
+          "min": -1.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "wglp",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/wglp.png",
+    "locale": {
+      "ru": "Ветка Калины",
+      "en": "Viburnum Branch"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      },
+      {
+        "name": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 13.8,
+          "min": 6.9
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 4.6,
+          "min": 2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "4l7p",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/4l7p.png",
+    "locale": {
+      "ru": "Гребешок",
+      "en": "Scallop"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 10.1,
+          "min": 4.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 5.7,
+          "min": 2.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.24,
+          "min": -0.9
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 3.4,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 1.9,
+          "min": 0.95
+        }
+      }
+    ]
+  },
+  {
+    "id": "kqp0",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/kqp0.png",
+    "locale": {
+      "ru": "Жар-птица",
+      "en": "Firebird"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "name": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.27,
+          "min": -1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 7.7,
+          "min": 3.85
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.09,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "qoq6",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/qoq6.png",
+    "locale": {
+      "ru": "Солнце",
+      "en": "Sun"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 1.9,
+          "min": 0.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -1.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 3.2,
+          "min": 1.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      }
+    ]
+  },
+  {
+    "id": "ljrj",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/ljrj.png",
+    "locale": {
+      "ru": "Радиатор",
+      "en": "Radiator"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 20.8,
+          "min": 10.4
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -1.35,
+          "min": -2.7
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.3,
+          "min": -2.6
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "9n1w",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/9n1w.png",
+    "locale": {
+      "ru": "Ягодка",
+      "en": "Berry"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.23,
+          "min": -0.9
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.3,
+          "min": 0.15
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.08,
+          "min": -0.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "1k4q",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/1k4q.png",
+    "locale": {
+      "ru": "Сало",
+      "en": "Lard"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 5.8,
+          "min": 2.9
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ]
+  },
+  {
+    "id": "gypg",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/gypg.png",
+    "locale": {
+      "ru": "Плод",
+      "en": "Embryo"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.7,
+          "min": 0.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 13.9,
+          "min": 6.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.75,
+          "min": -1.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "zyo9",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/zyo9.png",
+    "locale": {
+      "ru": "Болотный гнилец",
+      "en": "Swamp Rot"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -1.1,
+          "min": -2.2
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.35,
+          "min": -0.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "5r34",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/5r34.png",
+    "locale": {
+      "ru": "Сердце",
+      "en": "Heart"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 6.8,
+          "min": 3.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      }
+    ]
+  },
+  {
+    "id": "y5yw",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/y5yw.png",
+    "locale": {
+      "ru": "Гантель",
+      "en": "Dumbbell"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 8.7,
+          "min": 4.35
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to laceration"
+        },
+        "value": {
+          "max": 3.6,
+          "min": 1.8
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.95
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 9.8,
+          "min": 4.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "wgzd",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/wgzd.png",
+    "locale": {
+      "ru": "Остов",
+      "en": "Frame"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 7.8,
+          "min": 3.9
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 3.1,
+          "min": 1.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.1,
+          "min": 0.55
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "gyjg",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/gyjg.png",
+    "locale": {
+      "ru": "Кислотный кристалл",
+      "en": "Acid Crystal"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -4,
+          "min": -8
+        }
+      },
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от биозаражения",
+          "en": "Bioinfection protection"
+        },
+        "value": {
+          "max": 30,
+          "min": 15
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "zyv9",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/zyv9.png",
+    "locale": {
+      "ru": "Кисель",
+      "en": "Lollipop"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 13.9,
+          "min": 6.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.75,
+          "min": -1.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to laceration"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "5r04",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/5r04.png",
+    "locale": {
+      "ru": "Флегма",
+      "en": "Phlegm"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.7,
+          "min": 0.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.16,
+          "min": -0.6
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.05,
+          "min": -0.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 4.6,
+          "min": 2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "y5vw",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/y5vw.png",
+    "locale": {
+      "ru": "Скорлупа",
+      "en": "Crust"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.8
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.07,
+          "min": -0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 5.7,
+          "min": 2.85
+        }
+      }
+    ]
+  },
+  {
+    "id": "wgvd",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/wgvd.png",
+    "locale": {
+      "ru": "Чернильница",
+      "en": "Inkwell"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to laceration"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.22,
+          "min": -0.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "4lml",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/4lml.png",
+    "locale": {
+      "ru": "Змеиный глаз",
+      "en": "Snake Eye"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 1.9,
+          "min": 1
+        }
+      },
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 14.6,
+          "min": 7.3
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 5,
+          "min": 2.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 4.9,
+          "min": 2.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      }
+    ]
+  },
+  {
+    "id": "kqj3",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/kqj3.png",
+    "locale": {
+      "ru": "Улитка",
+      "en": "Snail"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 10.4,
+          "min": 5.2
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 18.5,
+          "min": 9.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -1.45,
+          "min": -2.9
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.5,
+          "min": 1.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "qo59",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/qo59.png",
+    "locale": {
+      "ru": "Жвачка",
+      "en": "Gum"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 20.8,
+          "min": 10.4
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -1.35,
+          "min": -2.7
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "jkj4",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/jkj4.png",
+    "locale": {
+      "ru": "Ряска",
+      "en": "Lemna"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -8,
+          "min": -16
+        }
+      },
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.6,
+          "min": 0.8
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от биозаражения",
+          "en": "Bioinfection protection"
+        },
+        "value": {
+          "max": 65,
+          "min": 32.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -1,
+          "min": -2
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "ljpq",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/ljpq.png",
+    "locale": {
+      "ru": "Многогранник",
+      "en": "Polyhedron"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 11.7,
+          "min": 5.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1.25,
+          "min": 0.6
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.9,
+          "min": 1.95
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.82,
+          "min": -1.65
+        }
+      }
+    ]
+  },
+  {
+    "id": "9nml",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/9nml.png",
+    "locale": {
+      "ru": "Репях",
+      "en": "Burr"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 7.8,
+          "min": 3.9
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 13.9,
+          "min": 6.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.75,
+          "min": -1.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "1kdg",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/1kdg.png",
+    "locale": {
+      "ru": "Липкий репях",
+      "en": "Sticky Burr"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 9.1,
+          "min": 4.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -1.1,
+          "min": -2.2
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.1,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.35,
+          "min": -0.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "gy06",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/gy06.png",
+    "locale": {
+      "ru": "Ершик",
+      "en": "Scrubber"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 11.7,
+          "min": 5.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 20.8,
+          "min": 10.4
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -1.35,
+          "min": -2.7
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.9,
+          "min": 1.95
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "zy7y",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/zy7y.png",
+    "locale": {
+      "ru": "Ежик",
+      "en": "Hedgehog"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -8,
+          "min": -16
+        }
+      },
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 10.4,
+          "min": 5.2
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от радиации",
+          "en": "Radiation protection"
+        },
+        "value": {
+          "max": 65,
+          "min": 32.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -1,
+          "min": -2
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.5,
+          "min": 1.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "5rd1",
+    "category": "biochemical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/biochemical/5rd1.png",
+    "locale": {
+      "ru": "Стальной Ежик",
+      "en": "Steel Hedgehog"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 13,
+          "min": 5.85
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 5,
+          "min": 2.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to laceration"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 14.6,
+          "min": 7.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 4.4,
+          "min": 1.95
+        }
+      }
+    ]
+  },
+  {
+    "id": "gyv6",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/gyv6.png",
+    "locale": {
+      "ru": "Роза",
+      "en": "Rose"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.15
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 3.9,
+          "min": 1.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 5.2,
+          "min": 2.6
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.05
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 1.3,
+          "min": 0.65
+        }
+      }
+    ]
+  },
+  {
+    "id": "zyly",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/zyly.png",
+    "locale": {
+      "ru": "Цибуля",
+      "en": "Onion"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 7.8,
+          "min": 3.9
+        }
+      },
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 5.8,
+          "min": 2.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2,
+          "min": 0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "5rg1",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/5rg1.png",
+    "locale": {
+      "ru": "Проклятая роза",
+      "en": "Cursed Rose"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 11.6,
+          "min": 5.2
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 6.5,
+          "min": 3.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 3.9,
+          "min": 1.75
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "y5jk",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/y5jk.png",
+    "locale": {
+      "ru": "Жильник",
+      "en": "Veiner"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 6.1,
+          "min": 3.05
+        }
+      },
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 6.8,
+          "min": 3.05
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 0.75,
+          "min": 0.37
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.6,
+          "min": -1.2
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.1,
+          "min": 1.05
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.65,
+          "min": -1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.05
+        }
+      }
+    ]
+  },
+  {
+    "id": "wg62",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/wg62.png",
+    "locale": {
+      "ru": "Белая роза",
+      "en": "White Rose"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 6.1,
+          "min": 3.05
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.95,
+          "min": -3.9
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.1,
+          "min": 1.05
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.65,
+          "min": -1.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "4l1r",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/4l1r.png",
+    "locale": {
+      "ru": "Протоцибуля",
+      "en": "Proto-Onion"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 18.5,
+          "min": 9.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -1.45,
+          "min": -2.9
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "kqgy",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/kqgy.png",
+    "locale": {
+      "ru": "Браслет",
+      "en": "Bracelet"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.2
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 3.6,
+          "min": 1.8
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 5,
+          "min": 2.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "9nvy",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/9nvy.png",
+    "locale": {
+      "ru": "Вехотка",
+      "en": "Sponge"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Защита от разрыва",
+          "en": "Laceration protection"
+        },
+        "value": {
+          "max": 5.2,
+          "min": 2.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to laceration"
+        },
+        "value": {
+          "max": 1.9,
+          "min": 0.95
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "1kv2",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/1kv2.png",
+    "locale": {
+      "ru": "Прима",
+      "en": "Prima"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 9.3,
+          "min": 4.65
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от разрыва",
+          "en": "Laceration protection"
+        },
+        "value": {
+          "max": 6.5,
+          "min": 3.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 3.1,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.8
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "gyg5",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/gyg5.png",
+    "locale": {
+      "ru": "Креветка",
+      "en": "Shrimp"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 10.9,
+          "min": 5.45
+        }
+      },
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 7.1,
+          "min": 3.2
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 3,
+          "min": 1.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 3.7,
+          "min": 1.85
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 5.7,
+          "min": 2.85
+        }
+      }
+    ]
+  },
+  {
+    "id": "zypm",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/zypm.png",
+    "locale": {
+      "ru": "Золотистая Прима",
+      "en": "Golden Prima"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      },
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 12.4,
+          "min": 6.2
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 13,
+          "min": 6.5
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 4.2,
+          "min": 2.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "5rpq",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/5rpq.png",
+    "locale": {
+      "ru": "Янтарник",
+      "en": "Amberite"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 13.9,
+          "min": 6.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 3.2,
+          "min": 1.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1.25,
+          "min": 0.62
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.1,
+          "min": 0.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      }
+    ]
+  },
+  {
+    "id": "y5m3",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/y5m3.png",
+    "locale": {
+      "ru": "Криоген",
+      "en": "Cryogen"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 18.5,
+          "min": 9.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -1.45,
+          "min": -2.9
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "wgr3",
+    "category": "gravity",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/gravity/wgr3.png",
+    "locale": {
+      "ru": "Темный кристалл",
+      "en": "Dark Crystal"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.9,
+          "min": 0.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "gyq5",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/gyq5.png",
+    "locale": {
+      "ru": "Спираль",
+      "en": "Spiral"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.6,
+          "min": 0.8
+        }
+      },
+      {
+        "name": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "zyrm",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/zyrm.png",
+    "locale": {
+      "ru": "Зеркало",
+      "en": "Mirror"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": -4,
+          "min": -8
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от радиации",
+          "en": "Radiation protection"
+        },
+        "value": {
+          "max": 35,
+          "min": 17.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от пси-излучения",
+          "en": "Psy-Emission protection"
+        },
+        "value": {
+          "max": 35,
+          "min": 17.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.3,
+          "min": -2.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 3.7,
+          "min": 1.85
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 1.3,
+          "min": 0.65
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.15,
+          "min": -2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "5rwq",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/5rwq.png",
+    "locale": {
+      "ru": "Осколок",
+      "en": "Shard"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 1.9,
+          "min": 0.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 8.7,
+          "min": 4.35
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      }
+    ]
+  },
+  {
+    "id": "y5w3",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/y5w3.png",
+    "locale": {
+      "ru": "Призма",
+      "en": "Prism"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 14.5,
+          "min": 6.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 8.1,
+          "min": 4.05
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": 5,
+          "min": 2.5
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 3.6,
+          "min": 1.8
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 4.9,
+          "min": 2.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 2.7,
+          "min": 1.35
+        }
+      }
+    ]
+  },
+  {
+    "id": "wg53",
+    "category": "electrophysical",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/electrophysical/wg53.png",
+    "locale": {
+      "ru": "Атом",
+      "en": "Atom"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 23.1,
+          "min": 11.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 23.1,
+          "min": 11.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 23.1,
+          "min": 11.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 23.1,
+          "min": 11.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.3,
+          "min": -2.6
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "id": 3,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.15,
+          "min": -2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "gyln",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/gyln.png",
+    "locale": {
+      "ru": "Иней",
+      "en": "Frost"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 5.8,
+          "min": 2.9
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от разрыва",
+          "en": "Laceration protection"
+        },
+        "value": {
+          "max": 9.3,
+          "min": 4.65
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 3.1,
+          "min": 1.55
+        }
+      }
+    ]
+  },
+  {
+    "id": "zyqk",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/zyqk.png",
+    "locale": {
+      "ru": "Хрусталь",
+      "en": "Leaded Glass"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      },
+      {
+        "name": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "5rzo",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/5rzo.png",
+    "locale": {
+      "ru": "Корка",
+      "en": "Crust"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 10.1,
+          "min": 4.55
+        }
+      },
+      {
+        "name": {
+          "ru": "Защита от разрыва",
+          "en": "Laceration protection"
+        },
+        "value": {
+          "max": 7.6,
+          "min": 3.8
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.4,
+          "min": -0.8
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 3.4,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "y5k0",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/y5k0.png",
+    "locale": {
+      "ru": "Вихрь",
+      "en": "Whirlwind"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 2.1,
+          "min": 1.05
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "wgwz",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/wgwz.png",
+    "locale": {
+      "ru": "Фаренгейт",
+      "en": "Fahrenheit"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 6.5,
+          "min": 2.95
+        }
+      },
+      {
+        "name": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to laceration"
+        },
+        "value": {
+          "max": 2.1,
+          "min": 1.05
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "kqoj",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/kqoj.png",
+    "locale": {
+      "ru": "Каблук",
+      "en": "Heel"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 16.5,
+          "min": 8.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to laceration"
+        },
+        "value": {
+          "max": 3.3,
+          "min": 1.65
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 5.5,
+          "min": 2.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.1,
+          "min": 0.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "qo94",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/qo94.png",
+    "locale": {
+      "ru": "Куриный бог",
+      "en": "Chicken God"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "name": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "jkml",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/jkml.png",
+    "locale": {
+      "ru": "Глаз бури",
+      "en": "Eye of the Storm"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 26,
+          "min": 13
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 26,
+          "min": 13
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 26,
+          "min": 13
+        }
+      },
+      {
+        "name": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 26,
+          "min": 13
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 8.5,
+          "min": 4.25
+        }
+      }
+    ]
+  },
+  {
+    "id": "ljn2",
+    "category": "thermal",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/thermal/ljn2.png",
+    "locale": {
+      "ru": "Морозец",
+      "en": "Chilly"
+    },
+    "values": [
+      {
+        "name": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 2.7,
+          "min": 1.35
+        }
+      },
+      {
+        "name": {
+          "ru": "Холод",
+          "en": "Frost"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      },
+      {
+        "name": {
+          "ru": "Горение",
+          "en": "Burning"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.4
+        }
+      }
+    ],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Горение",
+          "en": "Burning"
+        },
+        "value": {
+          "max": -0.1,
+          "min": -0.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "9n7z",
+    "category": "other_arts",
+    "icon": "https://raw.githubusercontent.com/EXBO-Studio/stalcraft-database/main/ru/icons/artefact/other_arts/9n7z.png",
+    "locale": {
+      "ru": "Рубик",
+      "en": "Rubik"
+    },
+    "values": [],
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 13,
+          "min": 6.5
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      },
+      {
+        "id": 3,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 7.7,
+          "min": 3.85
+        }
+      },
+      {
+        "id": 4,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 5,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 6,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 3.3,
+          "min": 1.65
+        }
+      },
+      {
+        "id": 7,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 8,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 3.3,
+          "min": 1.65
+        }
+      },
+      {
+        "id": 9,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 10,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 8.7,
+          "min": 4.35
+        }
+      },
+      {
+        "id": 11,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 12,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 13,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 14,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 15,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 16,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 17,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 18,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.3,
+          "min": -2.6
+        }
+      },
+      {
+        "id": 19,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.27,
+          "min": -1
+        }
+      },
+      {
+        "id": 20,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 8.1,
+          "min": 3.65
+        }
+      },
+      {
+        "id": 21,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 8.7,
+          "min": 4.35
+        }
+      },
+      {
+        "id": 22,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 6.5,
+          "min": 3.25
+        }
+      },
+      {
+        "id": 23,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 8,
+          "min": 4
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,3192 @@
+[
+  {
+    "id": "vktkjw",
+    "lines": {
+      "ru": "Призрачный кристалл",
+      "en": "Spectral Crystal"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.6,
+          "min": -1.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "7yego7",
+    "lines": {
+      "ru": "Трещотка",
+      "en": "Rattle"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.7,
+          "min": 1.85
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.3,
+          "min": 0.15
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.7,
+          "min": 0.85
+        }
+      }
+    ]
+  },
+  {
+    "id": "zixc32",
+    "lines": {
+      "ru": "Комета",
+      "en": "Comet"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ]
+  },
+  {
+    "id": "lurfpw",
+    "lines": {
+      "ru": "Батарейка",
+      "en": "Battery"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 11.4,
+          "min": 5.7
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "qrw0dh",
+    "lines": {
+      "ru": "Ледяной ежик",
+      "en": "Ice Hedgehog"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 10.4,
+          "min": 5.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "kwn0sz",
+    "lines": {
+      "ru": "Гиря",
+      "en": "Kettlebell"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "57ayld",
+    "lines": {
+      "ru": "Дезинтегратор",
+      "en": "Disintegrator"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.9,
+          "min": -1.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "491w9e",
+    "lines": {
+      "ru": "Лампочка Ильича",
+      "en": "Ilyich Lamp"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.9,
+          "min": -1.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "atvybi",
+    "lines": {
+      "ru": "Гелий",
+      "en": "Helium"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.6,
+          "min": 0.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "hm1kkm",
+    "lines": {
+      "ru": "Спираль",
+      "en": "Spiral"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "etybcw",
+    "lines": {
+      "ru": "Зеркало",
+      "en": "Mirror"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 1.3,
+          "min": 0.65
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.15,
+          "min": -2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "bfc9u4",
+    "lines": {
+      "ru": "Осколок",
+      "en": "Shard"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.15
+        }
+      }
+    ]
+  },
+  {
+    "id": "89mcz0",
+    "lines": {
+      "ru": "Призма",
+      "en": "Prism"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 3.6,
+          "min": 1.8
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 4.9,
+          "min": 2.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 2.7,
+          "min": 1.35
+        }
+      }
+    ]
+  },
+  {
+    "id": "r3fnth",
+    "lines": {
+      "ru": "Трансформатор",
+      "en": "Transformer"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.1,
+          "min": -2.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "69uudn",
+    "lines": {
+      "ru": "Атом",
+      "en": "Atom"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      },
+      {
+        "id": 3,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.15,
+          "min": -2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "d7mryf",
+    "lines": {
+      "ru": "Красный кристалл",
+      "en": "Red Crystal"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "o4ki65",
+    "lines": {
+      "ru": "Огонек",
+      "en": "Candlelight"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.35,
+          "min": -0.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "rjqmec",
+    "lines": {
+      "ru": "Пиявка",
+      "en": "Leech"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "drriwo",
+    "lines": {
+      "ru": "Волчьи слезы",
+      "en": "Wolf Tears"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "bu7yq6",
+    "lines": {
+      "ru": "Ветка Калины",
+      "en": "Viburnum Branch"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 4.6,
+          "min": 2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "up5jwv",
+    "lines": {
+      "ru": "Гребешок",
+      "en": "Scallop"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.24,
+          "min": -0.9
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 3.4,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 1.9,
+          "min": 0.95
+        }
+      }
+    ]
+  },
+  {
+    "id": "019p7q",
+    "lines": {
+      "ru": "Жар-птица",
+      "en": "Firebird"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 7.7,
+          "min": 3.85
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1,
+          "min": 0.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.09,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "jikakj",
+    "lines": {
+      "ru": "Солнце",
+      "en": "Sun"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 3.2,
+          "min": 1.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      }
+    ]
+  },
+  {
+    "id": "jahfob",
+    "lines": {
+      "ru": "Иней",
+      "en": "Frost"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 3.1,
+          "min": 1.55
+        }
+      }
+    ]
+  },
+  {
+    "id": "1uq7oc",
+    "lines": {
+      "ru": "Хрусталь",
+      "en": "Leaded Glass"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "oy8vjx",
+    "lines": {
+      "ru": "Корка",
+      "en": "Crust"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.4,
+          "min": -0.8
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 3.4,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "dkbhf4",
+    "lines": {
+      "ru": "Вихрь",
+      "en": "Whirlwind"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "ax7bem",
+    "lines": {
+      "ru": "Фаренгейт",
+      "en": "Fahrenheit"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "j4iw2o",
+    "lines": {
+      "ru": "Бритва",
+      "en": "Razor"
+    },
+    "additional_stats": []
+  },
+  {
+    "id": "5qfwqy",
+    "lines": {
+      "ru": "Каблук",
+      "en": "Heel"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 5.5,
+          "min": 2.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.1,
+          "min": 0.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "vcuvul",
+    "lines": {
+      "ru": "Куриный бог",
+      "en": "Chicken God"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "rux63q",
+    "lines": {
+      "ru": "Радиатор",
+      "en": "Radiator"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.55,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "lsjjo9",
+    "lines": {
+      "ru": "Глаз бури",
+      "en": "Eye of the Storm"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 8.5,
+          "min": 4.25
+        }
+      }
+    ]
+  },
+  {
+    "id": "4hj8sh",
+    "lines": {
+      "ru": "Ягодка",
+      "en": "Berry"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.3,
+          "min": 0.15
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.08,
+          "min": -0.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "374h36",
+    "lines": {
+      "ru": "Сало",
+      "en": "Lard"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 2.5,
+          "min": 1.25
+        }
+      }
+    ]
+  },
+  {
+    "id": "g5u9zn",
+    "lines": {
+      "ru": "Плод",
+      "en": "Embryo"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "c11pzr",
+    "lines": {
+      "ru": "Болотный гнилец",
+      "en": "Swamp Rot"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.35,
+          "min": -0.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "dexf97",
+    "lines": {
+      "ru": "Сердце",
+      "en": "Heart"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 6.8,
+          "min": 3.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      }
+    ]
+  },
+  {
+    "id": "2e21tg",
+    "lines": {
+      "ru": "Гантель",
+      "en": "Dumbbell"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.95
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 9.8,
+          "min": 4.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "ypy92o",
+    "lines": {
+      "ru": "Остов",
+      "en": "Frame"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.1,
+          "min": 0.55
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "ivnw55",
+    "lines": {
+      "ru": "Роза",
+      "en": "Rose"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 5.2,
+          "min": 2.6
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.05
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 1.3,
+          "min": 0.65
+        }
+      }
+    ]
+  },
+  {
+    "id": "iksq8d",
+    "lines": {
+      "ru": "Цибуля",
+      "en": "Onion"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.3,
+          "min": -0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2,
+          "min": 0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "s8exmq",
+    "lines": {
+      "ru": "Проклятая роза",
+      "en": "Cursed Rose"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 3.9,
+          "min": 1.75
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "lpmot3",
+    "lines": {
+      "ru": "Жильник",
+      "en": "Veiner"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.1,
+          "min": 1.05
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.65,
+          "min": -1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.3,
+          "min": 1.05
+        }
+      }
+    ]
+  },
+  {
+    "id": "5a1jel",
+    "lines": {
+      "ru": "Белая роза",
+      "en": "White Rose"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.1,
+          "min": 1.05
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -0.65,
+          "min": -1.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "4lrfdc",
+    "lines": {
+      "ru": "Протоцибуля",
+      "en": "Proto-Onion"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "5g7p4r",
+    "lines": {
+      "ru": "Браслет",
+      "en": "Bracelet"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 16.2,
+          "min": 8.1
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "6frd7s",
+    "lines": {
+      "ru": "Вехотка",
+      "en": "Sponge"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "50q69k",
+    "lines": {
+      "ru": "Прима",
+      "en": "Prima"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 3.1,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.8
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q8lof1",
+    "lines": {
+      "ru": "Креветка",
+      "en": "Shrimp"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 3.7,
+          "min": 1.85
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 5.7,
+          "min": 2.85
+        }
+      }
+    ]
+  },
+  {
+    "id": "yrk836",
+    "lines": {
+      "ru": "Золотистая Прима",
+      "en": "Golden Prima"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 13,
+          "min": 6.5
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 4.2,
+          "min": 2.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "i0n8bh",
+    "lines": {
+      "ru": "Янтарник",
+      "en": "Amberite"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 1.1,
+          "min": 0.55
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      }
+    ]
+  },
+  {
+    "id": "bf3s1v",
+    "lines": {
+      "ru": "Криоген",
+      "en": "Cryogen"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 2.4,
+          "min": 1.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "fp61jt",
+    "lines": {
+      "ru": "Темный кристалл",
+      "en": "Dark Crystal"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "dxttia",
+    "lines": {
+      "ru": "Кислотный кристалл",
+      "en": "Acid Crystal"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.4,
+          "min": 0.2
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.2,
+          "min": -0.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "p4zke1",
+    "lines": {
+      "ru": "Кисель",
+      "en": "Lollipop"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.5,
+          "min": 0.25
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "wuxovy",
+    "lines": {
+      "ru": "Флегма",
+      "en": "Phlegm"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.05,
+          "min": -0.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 4.6,
+          "min": 2.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "ddh8xv",
+    "lines": {
+      "ru": "Скорлупа",
+      "en": "Crust"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.07,
+          "min": -0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 5.7,
+          "min": 2.85
+        }
+      }
+    ]
+  },
+  {
+    "id": "1c9oka",
+    "lines": {
+      "ru": "Чернильница",
+      "en": "Inkwell"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.8,
+          "min": 0.4
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.22,
+          "min": -0.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "dlt8p4",
+    "lines": {
+      "ru": "Змеиный глаз",
+      "en": "Snake Eye"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 4.9,
+          "min": 2.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.7,
+          "min": 0.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.5,
+          "min": 0.75
+        }
+      }
+    ]
+  },
+  {
+    "id": "4mymgy",
+    "lines": {
+      "ru": "Улитка",
+      "en": "Snail"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.5,
+          "min": 1.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 6.2,
+          "min": 3.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1
+        }
+      }
+    ]
+  },
+  {
+    "id": "61gh22",
+    "lines": {
+      "ru": "Жвачка",
+      "en": "Gum"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4qrwwn",
+    "lines": {
+      "ru": "Ряска",
+      "en": "Lemna"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 0.6,
+          "min": 0.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "z11aqs",
+    "lines": {
+      "ru": "Многогранник",
+      "en": "Polyhedron"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.9,
+          "min": 1.95
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.82,
+          "min": -1.65
+        }
+      }
+    ]
+  },
+  {
+    "id": "xvkn20",
+    "lines": {
+      "ru": "Репях",
+      "en": "Burr"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 2.6,
+          "min": 1.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 4.7,
+          "min": 2.35
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.25,
+          "min": -0.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "7hvyz0",
+    "lines": {
+      "ru": "Липкий репях",
+      "en": "Sticky Burr"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.1,
+          "min": 1.55
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 5.4,
+          "min": 2.7
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.35,
+          "min": -0.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "5wuiqj",
+    "lines": {
+      "ru": "Ершик",
+      "en": "Scrubber"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.9,
+          "min": 1.95
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 7,
+          "min": 3.5
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.5,
+          "min": -1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "a7eoyv",
+    "lines": {
+      "ru": "Ежик",
+      "en": "Hedgehog"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 3.5,
+          "min": 1.75
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 1.8,
+          "min": 0.9
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.45,
+          "min": -0.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "xrrv1z",
+    "lines": {
+      "ru": "Стальной Ежик",
+      "en": "Steel Hedgehog"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 14.6,
+          "min": 7.3
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 4.4,
+          "min": 1.95
+        }
+      }
+    ]
+  },
+  {
+    "id": "4dpard",
+    "lines": {
+      "ru": "Рубик",
+      "en": "Rubik"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Выносливость",
+          "en": "Stamina"
+        },
+        "value": {
+          "max": 13,
+          "min": 6.5
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 1.2,
+          "min": 0.6
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Скорость передвижения",
+          "en": "Movement speed"
+        },
+        "value": {
+          "max": 1.4,
+          "min": 0.7
+        }
+      },
+      {
+        "id": 3,
+        "lines": {
+          "ru": "Эффективность лечения",
+          "en": "Healing effectiveness"
+        },
+        "value": {
+          "max": 7.7,
+          "min": 3.85
+        }
+      },
+      {
+        "id": 4,
+        "lines": {
+          "ru": "Регенерация здоровья",
+          "en": "Health regeneration"
+        },
+        "value": {
+          "max": 2,
+          "min": 1
+        }
+      },
+      {
+        "id": 5,
+        "lines": {
+          "ru": "Восстановление выносливости",
+          "en": "Stamina regeneration"
+        },
+        "value": {
+          "max": 2.9,
+          "min": 1.45
+        }
+      },
+      {
+        "id": 6,
+        "lines": {
+          "ru": "Реакция на электричество",
+          "en": "Reaction to electricity"
+        },
+        "value": {
+          "max": 3.3,
+          "min": 1.65
+        }
+      },
+      {
+        "id": 7,
+        "lines": {
+          "ru": "Реакция на ожог",
+          "en": "Reaction to burns"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 8,
+        "lines": {
+          "ru": "Реакция на хим. ожог",
+          "en": "Reaction to chemical burns"
+        },
+        "value": {
+          "max": 3.3,
+          "min": 1.65
+        }
+      },
+      {
+        "id": 9,
+        "lines": {
+          "ru": "Реакция на разрыв",
+          "en": "Reaction to melee"
+        },
+        "value": {
+          "max": 2.2,
+          "min": 1.1
+        }
+      },
+      {
+        "id": 10,
+        "lines": {
+          "ru": "Переносимый вес",
+          "en": "Carry weight"
+        },
+        "value": {
+          "max": 8.7,
+          "min": 4.35
+        }
+      },
+      {
+        "id": 11,
+        "lines": {
+          "ru": "Сопротивление радиации",
+          "en": "Radiation resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 12,
+        "lines": {
+          "ru": "Сопротивление биозаражению",
+          "en": "Bioinfection resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 13,
+        "lines": {
+          "ru": "Сопротивление температуре",
+          "en": "Thermal resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 14,
+        "lines": {
+          "ru": "Сопротивление пси-излучению",
+          "en": "Psy-emission resistance"
+        },
+        "value": {
+          "max": 25,
+          "min": 13
+        }
+      },
+      {
+        "id": 15,
+        "lines": {
+          "ru": "Радиация",
+          "en": "Radiation"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 16,
+        "lines": {
+          "ru": "Биологическое заражение",
+          "en": "Biological infection"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 17,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      },
+      {
+        "id": 18,
+        "lines": {
+          "ru": "Пси-излучение",
+          "en": "Psy-emissions"
+        },
+        "value": {
+          "max": -1.3,
+          "min": -2.6
+        }
+      },
+      {
+        "id": 19,
+        "lines": {
+          "ru": "Кровотечение",
+          "en": "Bleeding"
+        },
+        "value": {
+          "max": -0.27,
+          "min": -1
+        }
+      },
+      {
+        "id": 20,
+        "lines": {
+          "ru": "Пулестойкость",
+          "en": "Bullet resistance"
+        },
+        "value": {
+          "max": 8.1,
+          "min": 3.65
+        }
+      },
+      {
+        "id": 21,
+        "lines": {
+          "ru": "Защита от разрыва",
+          "en": "Melee protection"
+        },
+        "value": {
+          "max": 8.7,
+          "min": 4.35
+        }
+      },
+      {
+        "id": 22,
+        "lines": {
+          "ru": "Защита от взрыва",
+          "en": "Explosion protection"
+        },
+        "value": {
+          "max": 6.5,
+          "min": 3.25
+        }
+      },
+      {
+        "id": 23,
+        "lines": {
+          "ru": "Защита от кровотечения",
+          "en": "Bleeding protection"
+        },
+        "value": {
+          "max": 8,
+          "min": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": "ljn2",
+    "lines": {
+      "ru": "Морозец",
+      "en": "Chilly"
+    },
+    "additional_stats": [
+      {
+        "id": 0,
+        "lines": {
+          "ru": "Живучесть",
+          "en": "Vitality"
+        },
+        "value": {
+          "max": 0.9,
+          "min": 0.45
+        }
+      },
+      {
+        "id": 1,
+        "lines": {
+          "ru": "Горение",
+          "en": "Burning"
+        },
+        "value": {
+          "max": -0.1,
+          "min": -0.2
+        }
+      },
+      {
+        "id": 2,
+        "lines": {
+          "ru": "Температура",
+          "en": "Temperature"
+        },
+        "value": {
+          "max": -0.8,
+          "min": -1.6
+        }
+      }
+    ]
+  }
+]
